@@ -1,0 +1,3 @@
+PROGRAMIRANJE, 6.34€/h v MARIBOR 
+Širfra dela: 346260
+Podjetje išče Java razvijalce za delo na internih in mednarodnih projektih. Na projektih uporabljajo naslednje tehnologije: Java, Spring Boot, Hibernate, PostgreeSQL, REST JSON, Angular, Cucumber, GralVM, Docker, Jenkins, AWS, GIT. Iščejo predvsem kader, ki je v preteklosti že uporabljal te ali podobne tehnologije in se je pripravljen učiti in napredovati skupaj z njimi. Prednost bodo imeli kandidati/ke s poznavanjem večjega števila tehnologij. 

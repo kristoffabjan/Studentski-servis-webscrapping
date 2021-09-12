@@ -1,0 +1,3 @@
+PROGRAMIRANJE, 10.0€/h v LJUBLJANA 
+Širfra dela: 345990
+Razvoj programske opreme na Java EE platformi in delo na razvoju spletnih aplikacij v programskem okolju Angular 2. Pogoji so veselje do razvoja programske opreme, osnovno poznavanje programskega jezika Java in konceptov razvoja. Izkušnje z JSF Primefaces in HTTP/Rest storitvami so prednost. Delo poteka pod mentorstvom. 

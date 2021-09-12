@@ -1,0 +1,5 @@
+PROGRAMIRANJE, 9.0€/h v ODDOMA 
+Širfra dela: 343834
+So majhno visokotehnološko ameriško podjetje, ki ustvarja platformo za stereo kamere z umetno inteligenco. 
+Iščejo C++ in Python programerje/ke. Možnost dela: Programiranje embedded naprav, delo na knjižnicah in projektih z njihovo platformo. Potrebna znanja: C++/Python, git, CMake in seveda angleščina. Plus: ML/AI, linearna algebra, osnove elektrotehnike, embedded področja. Zainteresirani naj pošljejo svoj github/CV/spremno pismo v angleščini. 
+Urna postavka je prilagodljiva na uspešnost. 
